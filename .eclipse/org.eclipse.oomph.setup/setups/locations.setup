@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<setup:LocationCatalog
+    xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI"
+    xmlns:setup="http://www.eclipse.org/oomph/setup/1.0">
+  <installation>
+    <key href="file:/C:/Users/sharm/eclipse/java-2021-122/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+    <value href="file:/C:/Users/sharm/eclipsvekurrrtrskkk/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/sharm/eclipsvekurrrtrs/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/sharm/eclipsvekurrrtr/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/sharm/eclipsvekurrrtrrgrggc/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/sharm/eclipsekurrrtrrgrggc/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/sharm/eclipseku-rworkspacerrrrrrtrrgrggc/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/sharm/eclipseku-rworkspacerrrrrrtrrgrgg/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/sharm/eclipseku-rworkspacerrrrrrtrrgr/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/sharm/eclipseku-rworkspacerrrrrrtrrg/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/sharm/eclipseku-rworkspacerrrrrrtrr/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/sharm/eclipseku-rworkspacerrrrrrt/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/sharm/eclipseku-rworkspacerrrrr/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/sharm/eclipseku-rworkspacerrr/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+  </installation>
+  <workspace>
+    <key href="file:/C:/Users/sharm/eclipsvekurrrtrskkk/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/sharm/eclipse/java-2021-122/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/C:/Users/sharm/eclipsvekurrrtrs/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/sharm/eclipse/java-2021-122/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/C:/Users/sharm/eclipsvekurrrtr/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/sharm/eclipse/java-2021-122/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/C:/Users/sharm/eclipsvekurrrtrrgrggc/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/sharm/eclipse/java-2021-122/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/C:/Users/sharm/eclipsekurrrtrrgrggc/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/sharm/eclipse/java-2021-122/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/C:/Users/sharm/eclipseku-rworkspacerrrrrrtrrgrggc/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/sharm/eclipse/java-2021-122/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/C:/Users/sharm/eclipseku-rworkspacerrrrrrtrrgrgg/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/sharm/eclipse/java-2021-122/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/C:/Users/sharm/eclipseku-rworkspacerrrrrrtrrgr/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/sharm/eclipse/java-2021-122/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/C:/Users/sharm/eclipseku-rworkspacerrrrrrtrrg/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/sharm/eclipse/java-2021-122/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/C:/Users/sharm/eclipseku-rworkspacerrrrrrtrr/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/sharm/eclipse/java-2021-122/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/C:/Users/sharm/eclipseku-rworkspacerrrrrrt/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/sharm/eclipse/java-2021-122/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/C:/Users/sharm/eclipseku-rworkspacerrrrr/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/sharm/eclipse/java-2021-122/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/C:/Users/sharm/eclipseku-rworkspacerrr/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/sharm/eclipse/java-2021-122/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+</setup:LocationCatalog>
