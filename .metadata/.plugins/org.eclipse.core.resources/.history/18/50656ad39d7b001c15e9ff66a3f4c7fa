@@ -1,0 +1,25 @@
+package fullcoursejava;
+
+import fullcoursejava.Second.second;
+
+class Second {
+public class second extends Second {
+
+		public static void main(String[] args) {
+			// TODO Auto-generated method stub
+
+		}
+
+	}
+int a=10;//instance variable
+double b= 20.5; //static variable
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+boolean c= true; //local variable
+Second s=new Second();
+System.out.println(s.a);
+System.out.println(s.b);
+System.out.println(c);
+	}
+
+}
